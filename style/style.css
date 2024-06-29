@@ -166,12 +166,12 @@ body{
 
     .title{
         margin-top: 10px;
-        font-size: 1.5rem;
+        font-size: 1.4rem;
         padding-left: 30px;
     }
 
     .description{
-        font-size: 1.3rem;
+        font-size: 1.1rem;
         padding-left: 30px;
     }
 
@@ -180,7 +180,7 @@ body{
     }
 
     .price #withDiscount{
-        font-size: 2.5rem;
+        font-size: 2.3rem;
     }
 
 }
