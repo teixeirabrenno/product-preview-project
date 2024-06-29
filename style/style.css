@@ -54,7 +54,7 @@ body{
     grid-area: name;
     background-color: var(--White);
     color: var(--Dark-grayish-blue);
-    font-family: Montserrat;
+    font-family: Montserrat, sans-serif;
     font-weight: 500;
     font-size: 0.9rem;
     text-transform: uppercase;
@@ -65,13 +65,13 @@ body{
 
 .title{
     grid-area: title;
-    font-family: Fraunces;
+    font-family: Fraunces, sans-serif;
     padding: 10px 20px;
 }
 
 .description{
     grid-area: description;
-    font-family: Montserrat;
+    font-family: Montserrat, sans-serif;
     font-weight: 500;
     font-size: 1rem;
     color: var(--Dark-grayish-blue);
@@ -86,14 +86,14 @@ body{
 }
 
 .price #withDiscount{
-    font-family: Fraunces;
+    font-family: Fraunces, sans-serif;
     font-size: 2rem;
     font-weight: bold;
     color: var(--Dark-cyan);
 }
 
 .price #withoutDiscount{
-    font-family: Montserrat;
+    font-family: Montserrat, sans-serif;
     font-size: 1rem;
     color: var(--Dark-grayish-blue);
     margin-left: 5%;
@@ -105,7 +105,7 @@ body{
 .cart{
     grid-area: cart;
     background-color: var(--Dark-cyan);
-    font-family: Montserrat;
+    font-family: Montserrat, sans-serif;
     color: white;
     font-size: 1rem;
     font-weight: bold;
